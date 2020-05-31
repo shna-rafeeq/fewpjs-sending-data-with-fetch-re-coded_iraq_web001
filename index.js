@@ -21,7 +21,7 @@ function submitData(){
  })
  
  .then(function(json){
-   console.log(json);
+  
    
  })
  
