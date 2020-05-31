@@ -21,7 +21,7 @@ function submitData(){
  })
  
  .then(function(json){
-  
+  consle.lo
    
  })
  
